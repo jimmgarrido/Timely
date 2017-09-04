@@ -55,6 +55,7 @@ namespace Timely
 
 			cell.AlarmName = item.Name;
 			cell.AlarmTime = item.Time;
+			cell.RepeatText = "Weekdays";
 
 			return cell;
 		}

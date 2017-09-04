@@ -52,7 +52,7 @@ namespace Timely.Cells
 
         public AlarmCell (IntPtr handle) : base (handle)
         {
-			RepeatText = "Weekdays";
+
         }
     }
 }
