@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Timely", "Timely\Timely.csproj", "{C5BA575A-EE6D-437B-A576-33957541DB2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5BA575A-EE6D-437B-A576-33957541DB2E}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{C5BA575A-EE6D-437B-A576-33957541DB2E}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{C5BA575A-EE6D-437B-A576-33957541DB2E}.Release|iPhone.ActiveCfg = Release|iPhone
+		{C5BA575A-EE6D-437B-A576-33957541DB2E}.Release|iPhone.Build.0 = Release|iPhone
+		{C5BA575A-EE6D-437B-A576-33957541DB2E}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{C5BA575A-EE6D-437B-A576-33957541DB2E}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{C5BA575A-EE6D-437B-A576-33957541DB2E}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{C5BA575A-EE6D-437B-A576-33957541DB2E}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal
